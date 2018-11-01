@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "amp-pwa-workbox/project/package.json",
+        "amp-pwa-workbox/solution-amp-as-pwa/package.json",
+        "amp-pwa-workbox/solution/package.json",
+        "push-notifications/package.json"
+      ]
+    }
+  }
+}
